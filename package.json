@@ -1,0 +1,20 @@
+{
+  "name": "distributed-kv-store-consistent-hashing",
+  "version": "1.0.0",
+  "description": "A Node.js simulation of a distributed key-value store using consistent hashing, LRU caching, replication, node join/leave, and failure handling.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "distributed-systems",
+    "consistent-hashing",
+    "key-value-store",
+    "caching",
+    "lru",
+    "nodejs"
+  ],
+  "author": "Mubarak Aliyu",
+  "license": "MIT"
+}
